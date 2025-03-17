@@ -1,6 +1,6 @@
 
 package com.mycompany.poo;
-
+//Se extiende del objeto Estudiante
 public class Desarrollador extends Empleado {
     private String lenguaje;
 
